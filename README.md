@@ -458,11 +458,7 @@ F_{BD} = -F_{AD} = -7071 N
 
 Finally we can solve for `F_{DE}`.
 
-$$
-
-F_{DE} = \frac{\sqrt{2}}{2} F_{AD} - \frac{\sqrt{2}}{2} F_{BD} \Rightarrow F_{DE} = \frac{\sqrt{2}}{2} (7071 - -7071) = 10,000 N
-
-$$
+$$F_{DE} = \frac{\sqrt{2}}{2} F_{AD} - \frac{\sqrt{2}}{2} F_{BD} \Rightarrow F_{DE} = \frac{\sqrt{2}}{2} (7071 - -7071) = 10,000 N$$
 
 Cool beans!
 
